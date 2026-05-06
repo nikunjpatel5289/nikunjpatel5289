@@ -72,8 +72,7 @@ Based in Surat, Gujarat 🇮🇳 | Open to Freelance & Full-time Opportunities
 
 ## 📊 GitHub Stats
 
-![Nikunj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikunjpatel5289&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
-
+![Nikunj's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=nikunjpatel5289&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjpatel5289&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF)
 
 ---
